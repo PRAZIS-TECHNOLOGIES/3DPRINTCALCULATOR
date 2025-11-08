@@ -455,7 +455,7 @@ export default function QuoteCalculator() {
           <div className="lg:col-span-1">
             <div className="sticky top-4 space-y-4">
               <Card id="quote-summary">
-                <CardHeader className="bg-gradient-to-r from-blue-600 to-blue-700 text-white">
+                <CardHeader className="bg-gradient-to-r from-blue-600 to-blue-700 text-white rounded-t-lg">
                   <CardTitle className="flex items-center gap-2">
                     <DollarSign className="h-5 w-5" />
                     Resumen de Cotización
