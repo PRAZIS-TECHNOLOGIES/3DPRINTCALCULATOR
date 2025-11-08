@@ -116,13 +116,6 @@ export default function QuoteCalculator() {
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <div className="text-center mb-6 md:mb-8">
-          <div className="flex items-center justify-center mb-4">
-            <img
-              src="/prazis-logo.svg"
-              alt="Prazis"
-              className="h-16 md:h-24 w-auto"
-            />
-          </div>
           <h1 className="text-3xl md:text-4xl font-bold text-slate-900 mb-2">
             Prazis Print
           </h1>
